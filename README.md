@@ -2,6 +2,6 @@
 
 Simple weather app using HTML, CSS, and AngularJS.
 
-![image](https://raw.githubusercontent.com/rahneverd/angular-weather-app/main/angular-weather-app.png)
+![image](https://github.com/rahneverd/angular-weather-app/blob/main/angular-weather-app.PNG?raw=true)
 
 ## Links
